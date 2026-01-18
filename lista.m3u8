@@ -1,15 +1,11 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="⏺️ NOTICIA" tvg-logo="https://easypr1.com/Logos/cnn.png",CNN INTERNACIONAL FHD
-http://coneasy.lat:80/live/kyeoj2w4/0drti608/608157.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA" tvg-logo="https://easypr1.com/Logos/cnn.png",CNN INTERNACIONAL HD
-http://coneasy.lat:80/live/kyeoj2w4/0drti608/608156.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA" tvg-logo="https://easypr1.com/Logos/cnn.png",CNN INTERNACIONAL SD
-http://coneasy.lat:80/live/kyeoj2w4/0drti608/608155.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA" tvg-logo="https://easypr1.com/Logos/cnn.png",CNN MONEY
-http://coneasy.lat:80/live/kyeoj2w4/0drti608/670706.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA" tvg-logo="https://easypr1.com/Logos/cnn.png",CNN PORTUGAL
-http://coneasy.lat:80/live/kyeoj2w4/0drti608/670707.ts
 #EXTINF:-1 tvg-name="Rádio Obelisco FM" group-title="Rádios",Rádio Obelisco FM
 http://server02.stmsg.com.br:6712/stream
+
+#EXTINF:-1 tvg-name="Rádio Cultura do Oeste 102.9 FM" group-title="Rádios",Rádio Cultura do Oeste 102.9 FM
+http://ip1.stm-ip.com:6680/stream
+
+#EXTINF:-1 tvg-name="TCM 10 Mossoró" group-title="Canais Locais",TCM 10 Mossoró
+https://player.logicha.com.br/live/tcm10/chunklist_w1718479980.m3u8
