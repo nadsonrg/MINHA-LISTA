@@ -1,0 +1,12 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="RIO GRANDE DO NORTE" tvg-logo="http://cdm.cinertplay.top/logos/canais/globo.png",Inter TV Costa Branca FHD²
+http://coneasy.lat:80/live/kyeoj2w4/0drti608/1756396.ts
+#EXTINF:-1 group-title="RIO GRANDE DO NORTE" tvg-logo="http://cdm.cinertplay.top/logos/canais/globo.png",Inter TV Costa Branca HD²
+http://coneasy.lat:80/live/kyeoj2w4/0drti608/1756397.ts
+#EXTINF:-1 group-title="RIO GRANDE DO NORTE" tvg-logo="http://cdm.cinertplay.top/logos/canais/globo.png",Inter TV Costa Branca SD²
+#EXTINF:-1 group-title="RIO GRANDE DO NORTE" tvg-logo="http://cdm.cinertplay.top/logos/canais/globo.png",Inter TV Cabugi FHD²
+http://coneasy.lat:80/live/kyeoj2w4/0drti608/1756393.ts
+#EXTINF:-1 group-title="RIO GRANDE DO NORTE" tvg-logo="http://cdm.cinertplay.top/logos/canais/globo.png",Inter TV Cabugi HD²
+http://coneasy.lat:80/live/kyeoj2w4/0drti608/1756394.ts
+#EXTINF:-1 group-title="RIO GRANDE DO NORTE" tvg-logo="http://cdm.cinertplay.top/logos/canais/globo.png",Inter TV Cabugi SD²
