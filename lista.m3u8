@@ -1,13 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="RIO GRANDE DO NORTE" tvg-logo="http://cdm.cinertplay.top/logos/canais/globo.png",Inter TV Costa Branca FHD²
-http://coneasy.lat:80/live/kyeoj2w4/0drti608/1756396.ts
-#EXTINF:-1 group-title="RIO GRANDE DO NORTE" tvg-logo="http://cdm.cinertplay.top/logos/canais/globo.png",Inter TV Costa Branca HD²
-http://coneasy.lat:80/live/kyeoj2w4/0drti608/1756397.ts
-#EXTINF:-1 group-title="RIO GRANDE DO NORTE" tvg-logo="http://cdm.cinertplay.top/logos/canais/globo.png",Inter TV Costa Branca SD²
-#EXTINF:-1 group-title="RIO GRANDE DO NORTE" tvg-logo="http://cdm.cinertplay.top/logos/canais/globo.png",Inter TV Cabugi FHD²
-http://coneasy.lat:80/live/kyeoj2w4/0drti608/1756393.ts
-#EXTINF:-1 group-title="RIO GRANDE DO NORTE" tvg-logo="http://cdm.cinertplay.top/logos/canais/globo.png",Inter TV Cabugi HD²
-http://coneasy.lat:80/live/kyeoj2w4/0drti608/1756394.ts
-#EXTINF:-1 group-title="⏺️ GLOBO (NORDESTE)" tvg-logo="http://cdm.cinertplay.top/logos/canais/globo.png",Inter TV Cabugi SD²
-http://coneasy.lat:80/live/kyeoj2w4/0drti608/1756395.ts
+
+#EXTINF:-1 group-title="⏺️ NOTICIA" tvg-logo="https://easypr1.com/Logos/cnn.png",CNN INTERNACIONAL FHD
+http://coneasy.lat:80/live/kyeoj2w4/0drti608/608157.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA" tvg-logo="https://easypr1.com/Logos/cnn.png",CNN INTERNACIONAL HD
+http://coneasy.lat:80/live/kyeoj2w4/0drti608/608156.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA" tvg-logo="https://easypr1.com/Logos/cnn.png",CNN INTERNACIONAL SD
+http://coneasy.lat:80/live/kyeoj2w4/0drti608/608155.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA" tvg-logo="https://easypr1.com/Logos/cnn.png",CNN MONEY
+http://coneasy.lat:80/live/kyeoj2w4/0drti608/670706.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA" tvg-logo="https://easypr1.com/Logos/cnn.png",CNN PORTUGAL
+http://coneasy.lat:80/live/kyeoj2w4/0drti608/670707.ts
+#EXTINF:-1 tvg-name="Rádio Obelisco FM" group-title="Rádios",Rádio Obelisco FM
+http://server02.stmsg.com.br:6712/stream
