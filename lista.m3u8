@@ -10,3 +10,18 @@ http://ip1.stm-ip.com:6680/stream
 #EXTINF:-1 tvg-name="TCM 10 Mossoró" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/af00a626f71e3a3dfadb5a5c8ffa086c.webp" group-title="RIO GRANDE DO NORTE",TCM 10 Mossoró
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 
+#EXTINF:-1 tvg-name="TV Tropical (Rede Record RN)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/85b498edcd66663ea7dfb0c1f9fc697e.webp" group-title="RIO GRANDE DO NORTE",TV Tropical (Rede Record RN)
+https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV Futuro (Cultura RN)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/85b498edcd66663ea7dfb0c1f9fc697e.webp" group-title="RIO GRANDE DO NORTE",TV Futuro (Cultura RN)
+https://tv03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV Grande Natal" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/14c5a66a88c83606956bfad56ce0e085.webp" group-title="RIO GRANDE DO NORTE",TV Grande Natal
+https://canalteste.duckdns.org/app/tvgrandenatalhdtv/llhls.m3u8
+
+#EXTINF:-1 tvg-name="TV Litoral RN" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c29d2e57bae0e3c9f5a2e805a38afda0.webp" group-title="RIO GRANDE DO NORTE",TV Litoral RN
+https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV Gazeta RN" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6641c69b2ada1f0ce0497ab22aa9a33b.webp" group-title="RIO GRANDE DO NORTE",TV Gazeta RN
+https://live.eu-north-1a.cf.dmcdn.net/sec2(Qj5a20nmgopspiVOTszJpUOfeITOUjH1k14IMLHIZl1geaRCPRsFzUb9kmI_4IcdDI1dEkxPr0HubH3CTwKtoaRW2kv1go3jMYt3OawD6JMH8Rf8wT_NArWDI2T0q1e0)/dm/3/x8ttlxm/s/live-480.m3u8
+⚠️ Observação importante (esse canal)
