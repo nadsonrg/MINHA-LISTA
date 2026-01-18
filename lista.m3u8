@@ -7,5 +7,5 @@ http://server02.stmsg.com.br:6712/stream
 #EXTINF:-1 tvg-name="Rádio Cultura do Oeste 102.9 FM" group-title="Rádios",Rádio Cultura do Oeste 102.9 FM
 http://ip1.stm-ip.com:6680/stream
 
-#EXTINF:-1 tvg-name="TCM 10 Mossoró" group-title="Canais Locais",TCM 10 Mossoró
-https://player.logicha.com.br/live/tcm10/chunklist_w1718479980.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://tbsila.cdn.turner.com/tbsila/hashtag/assets/tcm/logo.png" group-title="VARIEDADES", TCM 10 HD
+http://cw.tcm10.com.br/low/canal10.m3u8
