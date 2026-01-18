@@ -7,5 +7,6 @@ http://server02.stmsg.com.br:6712/stream
 #EXTINF:-1 tvg-name="Rádio Cultura do Oeste 102.9 FM" group-title="Rádios",Rádio Cultura do Oeste 102.9 FM
 http://ip1.stm-ip.com:6680/stream
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://tbsila.cdn.turner.com/tbsila/hashtag/assets/tcm/logo.png" group-title="VARIEDADES", TCM 10 HD
-http://cw.tcm10.com.br/low/canal10.m3u8
+#EXTINF:-1 tvg-name="TCM 10 Mossoró" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/af00a626f71e3a3dfadb5a5c8ffa086c.webp" group-title="RIO GRANDE DO NORTE",TCM 10 Mossoró
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+
