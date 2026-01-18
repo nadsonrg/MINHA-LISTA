@@ -13,7 +13,7 @@ https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1 tvg-name="TV Tropical (Rede Record RN)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/85b498edcd66663ea7dfb0c1f9fc697e.webp" group-title="RIO GRANDE DO NORTE",TV Tropical (Rede Record RN)
 https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV Futuro (Cultura RN)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/85b498edcd66663ea7dfb0c1f9fc697e.webp" group-title="RIO GRANDE DO NORTE",TV Futuro (Cultura RN)
+#EXTINF:-1 tvg-name="TV Futuro (Cultura RN)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ca08395b7d600c7f467224100d43beda.webp" group-title="RIO GRANDE DO NORTE",TV Futuro (Cultura RN)
 https://tv03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TV Grande Natal" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/14c5a66a88c83606956bfad56ce0e085.webp" group-title="RIO GRANDE DO NORTE",TV Grande Natal
