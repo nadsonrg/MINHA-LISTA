@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Rental Family (2025)" group-title="1TESTE",Rental Family (2025)
+https://d.terabox.app/file/SEU_LINK_DIRETO_AQUI.mkv
 
 #EXTINF:-1 tvg-name="Rádio Obelisco FM" tvg-logo="https://lh6.googleusercontent.com/proxy/yRTnamDr-0LNdk5Jd_y-LF2TNB5T6rHLP87CctCWmFyQOGdJWSqe_eY1W_FctbpX6da9N4KJs-_xD7fvhCzFYNvH9GTyTgOH4yK2dFhM3N3ndXhz_itq" group-title="RIO GRANDE DO NORTE",Rádio Obelisco FM
 http://server02.stmsg.com.br:6712/stream
